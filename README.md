@@ -1,5 +1,5 @@
 # Hey Day Script
-Hey Day is one of Auburn University's favorite tradition. 
+Hey Day is one of Auburn University's favorite traditions. 
 To read more about it click [this link](http://sga.auburn.edu/hey-day/)
 
 ## What is Hey Day?
